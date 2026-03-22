@@ -1,2 +1,22 @@
-# rsschool-cv
-Реализация базового функционала в рамках курса JS/FE Pre-School 2026 Q1
+[мое резюме][1]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1]: https://st4rper1.github.io/rsschool-cv/cv
