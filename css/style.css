@@ -4,3 +4,11 @@ img {
     display: block;
     margin: 0 auto;
 }
+
+
+.rs-logo {
+    width: 200px; 
+    height: auto; 
+    display: block; 
+    margin: 20px 0; 
+}
