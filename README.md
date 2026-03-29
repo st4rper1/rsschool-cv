@@ -1,5 +1,5 @@
-[мое резюме][1]
-[Photo with information][2]
+* [My CV][1]
+* [Photo with information][2]
 
 
 
